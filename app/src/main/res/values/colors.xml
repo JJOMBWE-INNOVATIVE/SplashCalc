@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="statusBar">#008000</color>
+    <color name="appBAr">#006400</color>
+    <color name="statusBarDark">#FFC107</color>
+    <color name="appBarDark">#008000</color>
+    <color name="BackGround">#A2D9CE</color>
+    <color name="ButtonBackground">#328378</color>
+    <color name="TextAndOperators">#FFFFFF</color>
+    <color name="AnswerColor">#F5F5F5</color>
+    <color name="TextBack">#F5F5F5</color>
+    <color name="SplashBack">#70E7BC</color>
+
+
+</resources>
